@@ -29,8 +29,8 @@ if answer.lower() == "random access memory":
 else:
     print("Incorrect!")
 
-answer = input("What does PSU stand for? ").lower()
-if answer == "power supply":
+answer = input("What does LLM stand for? ").lower()
+if answer == "large language model":git
     print("Correct!")
     score += 1
 else:
